@@ -1,7 +1,0 @@
-
-
-	Amount of data that human has collected 
-		2005	-> 130 Exabytes
-		2010	-> 1200 Exabytes
-		2015	-> 7900 Exabytes
-		2020	-> 40,900 Exabytes
